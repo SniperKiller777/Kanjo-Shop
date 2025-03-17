@@ -1,0 +1,14 @@
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\obj\Debug\net8.0\KanjoInOsakaTuning ching ching.GeneratedMSBuildEditorConfig.editorconfig
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\obj\Debug\net8.0\KanjoInOsakaTuning ching ching.AssemblyInfoInputs.cache
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\obj\Debug\net8.0\KanjoInOsakaTuning ching ching.AssemblyInfo.cs
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\obj\Debug\net8.0\KanjoInOsakaTuning ching ching.csproj.CoreCompileInputs.cache
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\bin\Debug\net8.0\KanjoInOsakaTuning ching ching.exe
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\bin\Debug\net8.0\KanjoInOsakaTuning ching ching.deps.json
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\bin\Debug\net8.0\KanjoInOsakaTuning ching ching.runtimeconfig.json
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\bin\Debug\net8.0\KanjoInOsakaTuning ching ching.dll
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\bin\Debug\net8.0\KanjoInOsakaTuning ching ching.pdb
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\obj\Debug\net8.0\KanjoInOsakaTuning ching ching.dll
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\obj\Debug\net8.0\refint\KanjoInOsakaTuning ching ching.dll
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\obj\Debug\net8.0\KanjoInOsakaTuning ching ching.pdb
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\obj\Debug\net8.0\KanjoInOsakaTuning ching ching.genruntimeconfig.cache
+A:\VisualStudioProj\KanjoInOsakaTuning ching ching\obj\Debug\net8.0\ref\KanjoInOsakaTuning ching ching.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|a:\\visualstudioproj\\kanjoinosakatuning ching ching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|a:\\visualstudioproj\\kanjoinosakatuning ching ching\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|a:\\visualstudioproj\\kanjoinosakatuning ching ching\\installationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|solutionrelative:installationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|a:\\visualstudioproj\\kanjoinosakatuning ching ching\\externalupgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|solutionrelative:externalupgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|a:\\visualstudioproj\\kanjoinosakatuning ching ching\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|a:\\visualstudioproj\\kanjoinosakatuning ching ching\\internalupgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE35495-C646-4FBD-ABE3-48A76B191646}|KanjoInOsakaTuning ching ching.csproj|solutionrelative:internalupgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:12:38.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstallationService.cs",
+              "DocumentMoniker": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\InstallationService.cs",
+              "RelativeDocumentMoniker": "InstallationService.cs",
+              "ToolTip": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\InstallationService.cs",
+              "RelativeToolTip": "InstallationService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:03:38.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:02:44.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExternalUpgrades.cs",
+              "DocumentMoniker": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\ExternalUpgrades.cs",
+              "RelativeDocumentMoniker": "ExternalUpgrades.cs",
+              "ToolTip": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\ExternalUpgrades.cs",
+              "RelativeToolTip": "ExternalUpgrades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:01:56.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InternalUpgrades.cs",
+              "DocumentMoniker": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\InternalUpgrades.cs",
+              "RelativeDocumentMoniker": "InternalUpgrades.cs",
+              "ToolTip": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\InternalUpgrades.cs",
+              "RelativeToolTip": "InternalUpgrades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:00:51.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\VisualStudioProj\\KanjoInOsakaTuning ching ching\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:59:53.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
